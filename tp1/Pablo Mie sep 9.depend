@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1473260400 source:c:\users\fabian\documents\pablo c\ejercicio vie sep 2 2016\tpenviado\pablo mie sep 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1473295194 source:f:\pablo mie sep 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1473288232 source:f:\pablo mie sep 9\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
